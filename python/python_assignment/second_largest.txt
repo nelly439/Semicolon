@@ -1,0 +1,22 @@
+number1 = int(input("Enter first integer"))
+number2 = int(input("Enter second integer"))
+umber3 = int(input("Enter third integer"))
+
+
+highest = number1
+
+if(number2 > highest):
+	highest = number2
+
+if(number3 > highest):
+	highest = number
+
+second_highest = number1
+
+if(number2 > highest):
+	second_highest = number2
+
+
+if(number3 > highest):
+	second_highest = number3
+
